@@ -1,0 +1,23 @@
+{
+  "name": "Google_Hash_Code_2021_Qualifier",
+  "version": "1.0.0",
+  "description": "Google Hash code qualifier problem - Traffic signaling",
+  "keywords": [
+    "hash code",
+    "google",
+    "2021",
+    "qualifier"
+  ],
+  "main": "./src/qualifier.js",
+  "scripts": {
+    "start" : "node src/qualifier.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/beaudurrant/google-hash-code-2021-qualifier.git"
+  },
+  "homepage": "https://github.com/beaudurrant/google-hash-code-2021-qualifier",
+  "author": "Beau Durrant",
+  "license": "MIT",
+  "dependencies": {}
+}
